@@ -6,7 +6,7 @@ The goal of this project is to share the usage of arduino for maintaining and mo
 - 1 x breadboard
 - wires
 - 2 x 10K resistors
-- 1 x DHT11
+- 1 x RHT03
 - 1 x LDR
 - 2 x 250v chinese relays
 - 1 x cheapest chinese 12v pump (ie. rc gasoline pump) + alim ($10)
