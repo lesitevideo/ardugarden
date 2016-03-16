@@ -12,6 +12,7 @@ The goal of this project is to share the usage of arduino for maintaining and mo
 - 1 x cheapest chinese 12v pump (ie. rc gasoline pump) + alim ($10)
 - 1 x cheapest chinese 220v desktop fan ($10)
 - 2 x cheapest 1.3M chinese webcams ($5 each)
+- 2 electrical extension cords
 
 <h3>Software</h3>
 - free text/html editor (brackets, sublime text, notepad, textedit ...)
