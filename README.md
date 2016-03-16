@@ -1,7 +1,7 @@
 # ardugarden
-The goal of this project is to share and spread the usage of arduino for maintaining and monitoring an indoor garden.
+The goal of this project is to share the usage of arduino for maintaining and monitoring a greenhouse or a small garden, for less than $80.
 
-<h3>Hardware</h3> (< $80)
+<h3>Hardware</h3>
 - 1 x Arduino Yun
 - 1 x breadboard
 - wires
