@@ -8,10 +8,10 @@ The goal of this project is to share the usage of arduino for maintaining and mo
 - 2 x 10K resistors
 - 1 x RHT03
 - 1 x LDR
-- 2 x 250v chinese relays
-- 1 x cheapest chinese 12v pump (ie. rc gasoline pump) + alim ($10)
-- 1 x cheapest chinese 220v desktop fan ($10)
-- 2 x cheapest 1.3M chinese webcams ($5 each)
+- 2 x 250v relays
+- 1 x Plastic Water Solenoid Valve - 12V ($6)
+- 1 x 220v desktop fan ($10)
+- 2 x 1.3M webcams ($5 each)
 - 2 electrical extension cords
 
 <h3>Software</h3>
